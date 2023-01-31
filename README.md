@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **MongoDB, Next.js , ReactNative**
 
-- 📫 Como contactarme **chugo940@gmail.com**
+- 📫 Como contactarme **chugo940@gmail.com** || **https://www.linkedin.com/in/pablo-reyes-69b32b248/**
 
 <p align="left">
 </p>
