@@ -1,5 +1,5 @@
-<h1 align="center">Hola ! mi nombre es Hugo PAblo Reyes Gonzalez</h1>
-<h3 align="center">Un Desarrollador Full Stack de México</h3>
+<h1 align="center"> Hola ! Mi nombre es Hugo Pablo Reyes Gonzalez</h1>
+<h3 align="center"> Un Desarrollador Full Stack de México</h3>
 
 - 🌱 Actualmente estoy aprendiendo **MongoDB, Next.js , ReactNative**
 
