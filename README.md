@@ -3,7 +3,7 @@
 
 <p>Desde niño siempre tuve la cualidad de pasar horas enfocado en el por que de las cosas, mi curiosidad en un principio se canalizo a la ingenieria, en el area de las Energías Renovables, era una carrera interesante y muy completa pero nunca me senti comodo en la materia, lo mio no era colgar de un poste a varios metros de alto para arreglar un generador :joy:
 
-Junto con la pandemia llego a mi la oportunidad de explorar aficiones que no habia considerado antes y de uncruso de desarrollo de videojuegos, nacio la necesidad de entender más y mas , una cosa llevo a otra y nunca me habia sentido tan completo como ahora :heart:
+Junto con la pandemia llego a mi la oportunidad de explorar aficiones que no habia considerado antes y de un cruso de desarrollo de videojuegos, nacio la necesidad de entender más y más, una cosa llevo a otra y bueno, aqui estamos :heart:
 </p>
 
 - 🌱 Actualmente estoy aprendiendo **MongoDB, Next.js , ReactNative**
