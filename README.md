@@ -1,6 +1,11 @@
 <h1 align="center"> Hola ! Mi nombre es: " Hugo Pablo Reyes Gonzalez "</h1>
 <h3 align="center"> Un Desarrollador Full Stack de México</h3>
 
+<p>Desde niño siempre tuve la cualidad de pasar horas enfocado en el por que de las cosas, mi curiosidad en un principio se canalizo a la ingenieria, en el area de las Energías Renovables, era una carrera interesante y muy completa pero nunca me senti comodo en la materia, lo mio no era colgar de un poste a varios metros de alto para arreglar un generador :joy:
+
+Junto con la pandemia llego a mi la oportunidad de explorar aficiones que no habia considerado antes y de uncruso de desarrollo de videojuegos, nacio la necesidad de entender más y mas , una cosa llevo a otra y nunca me habia sentido tan completo como ahora :heart:
+</p>
+
 - 🌱 Actualmente estoy aprendiendo **MongoDB, Next.js , ReactNative**
 
 - 📫 Como contactarme **chugo940@gmail.com** || **https://www.linkedin.com/in/pablo-reyes-69b32b248/**
